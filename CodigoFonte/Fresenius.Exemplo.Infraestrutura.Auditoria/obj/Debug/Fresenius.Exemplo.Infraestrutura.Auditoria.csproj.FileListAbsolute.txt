@@ -1,0 +1,5 @@
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Auditoria\bin\Debug\Fresenius.Exemplo.Infraestrutura.Auditoria.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Auditoria\bin\Debug\Fresenius.Exemplo.Infraestrutura.Auditoria.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Auditoria\obj\Debug\Fresenius.Exemplo.Infraestrutura.Auditoria.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Auditoria\obj\Debug\Fresenius.Exemplo.Infraestrutura.Auditoria.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Auditoria\obj\Debug\Fresenius.Exemplo.Infraestrutura.Auditoria.csprojResolveAssemblyReference.cache

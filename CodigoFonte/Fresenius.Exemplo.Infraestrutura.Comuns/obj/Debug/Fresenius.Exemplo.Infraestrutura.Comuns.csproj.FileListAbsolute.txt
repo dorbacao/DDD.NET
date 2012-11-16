@@ -1,0 +1,7 @@
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Comuns\bin\Debug\Fresenius.Exemplo.Infraestrutura.Comuns.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Comuns\bin\Debug\Fresenius.Exemplo.Infraestrutura.Comuns.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Comuns\bin\Debug\AutoMapper.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Comuns\bin\Debug\AutoMapper.xml
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Comuns\obj\Debug\Fresenius.Exemplo.Infraestrutura.Comuns.csprojResolveAssemblyReference.cache
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Comuns\obj\Debug\Fresenius.Exemplo.Infraestrutura.Comuns.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Comuns\obj\Debug\Fresenius.Exemplo.Infraestrutura.Comuns.pdb

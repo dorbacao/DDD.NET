@@ -1,0 +1,17 @@
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\obj\Debug\Fresenius.Exemplo.UI.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\bin\Debug\Fresenius.Exemplo.UI.Web.Tests.dll.config
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\bin\Debug\Fresenius.Exemplo.UI.Web.Tests.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\bin\Debug\Fresenius.Exemplo.UI.Web.Tests.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\bin\Debug\Fresenius.Exemplo.UI.Web.Controllers.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\bin\Debug\Fresenius.Exemplo.UI.Web.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\bin\Debug\Fresenius.Exemplo.UI.Web.Controllers.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\bin\Debug\Fresenius.Exemplo.UI.Web.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\obj\Debug\Fresenius.Exemplo.UI.Web.Tests.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\obj\Debug\Fresenius.Exemplo.UI.Web.Tests.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\bin\Debug\Fresenius.Exemplo.Dominio.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\bin\Debug\Fresenius.Exemplo.Infraestrutura.Persistencia.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\bin\Debug\Fresenius.Exemplo.Dominio.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\bin\Debug\Fresenius.Exemplo.Infraestrutura.Persistencia.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\bin\Debug\AutoMapper.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\bin\Debug\AutoMapper.xml
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web.Tests\bin\Debug\WebTest1.webtest

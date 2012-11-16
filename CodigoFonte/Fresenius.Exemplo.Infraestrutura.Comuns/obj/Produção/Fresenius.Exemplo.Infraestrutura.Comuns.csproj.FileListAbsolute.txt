@@ -1,0 +1,6 @@
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Comuns\bin\Produção\Fresenius.Exemplo.Infraestrutura.Comuns.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Comuns\bin\Produção\Fresenius.Exemplo.Infraestrutura.Comuns.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Comuns\bin\Produção\AutoMapper.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Comuns\bin\Produção\AutoMapper.xml
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Comuns\obj\Produção\Fresenius.Exemplo.Infraestrutura.Comuns.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Comuns\obj\Produção\Fresenius.Exemplo.Infraestrutura.Comuns.pdb

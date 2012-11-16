@@ -1,0 +1,7 @@
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Persistencia\bin\Produção\Fresenius.Exemplo.Infraestrutura.Persistencia.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Persistencia\bin\Produção\Fresenius.Exemplo.Infraestrutura.Persistencia.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Persistencia\bin\Produção\Fresenius.Exemplo.Dominio.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Persistencia\bin\Produção\Fresenius.Exemplo.Dominio.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Persistencia\obj\Produção\Fresenius.Exemplo.Infraestrutura.Persistencia.csprojResolveAssemblyReference.cache
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Persistencia\obj\Produção\Fresenius.Exemplo.Infraestrutura.Persistencia.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Infraestrutura.Persistencia\obj\Produção\Fresenius.Exemplo.Infraestrutura.Persistencia.pdb

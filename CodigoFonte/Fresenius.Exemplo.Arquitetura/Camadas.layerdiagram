@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="f82fab8e-a47a-4dff-a116-6c70afc0167f" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="9420c28d-91d9-4098-94f8-b34dbd3b9bd4" name="Domínio">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="8c5173c8-6089-48f5-81af-ddaff85cfdea" direction="Forward">
+          <layerMoniker Id="21bc77cd-43a6-4779-9b45-b18cffc72d09" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <childLayers>
+        <layer Id="9216e4bf-b328-4f65-8463-8c95cb58ce80" name="Entidades de Domínio" />
+        <layer Id="24545229-f3c7-46c4-9a56-f0195f1aaedb" name="Serviços de Domínio">
+          <dependencyToLayers>
+            <dependencyFromLayerToLayer Id="585ebb3b-edf1-460b-a9b2-d1b1b6dda6f2" direction="Forward">
+              <layerMoniker Id="f8586996-1e3b-442c-8e67-6ae8846adadf" />
+            </dependencyFromLayerToLayer>
+            <dependencyFromLayerToLayer Id="52f47532-a11e-4b20-b5c5-628a17afcb85" direction="Forward">
+              <layerMoniker Id="9216e4bf-b328-4f65-8463-8c95cb58ce80" />
+            </dependencyFromLayerToLayer>
+          </dependencyToLayers>
+          <childLayers>
+            <layer Id="c161a406-8290-4b20-babb-a512ce0b694d" name="Serviços de Tarefas" />
+            <layer Id="249691c9-f12e-4033-9757-006a9c425237" name="Serviços de Workflow">
+              <dependencyToLayers>
+                <dependencyFromLayerToLayer Id="00ed5547-c49b-450a-9ff0-c898fd7b9018" direction="Forward">
+                  <layerMoniker Id="c161a406-8290-4b20-babb-a512ce0b694d" />
+                </dependencyFromLayerToLayer>
+              </dependencyToLayers>
+            </layer>
+          </childLayers>
+        </layer>
+        <layer Id="f8586996-1e3b-442c-8e67-6ae8846adadf" name="Especificações" />
+        <layer Id="96ca72db-0cc0-4f8b-bc78-5e3f2f18b391" name="Contratos de Repositorios" />
+      </childLayers>
+    </layer>
+    <layer Id="21bc77cd-43a6-4779-9b45-b18cffc72d09" name="Infraestrutura Transversal">
+      <childLayers>
+        <layer Id="ef760040-a250-4ef8-a932-3d7324fa8ec6" name="Adaptadores" />
+        <layer Id="bd9f4b94-932b-46bc-996d-7fb72c2781ff" name="Loggers" />
+        <layer Id="4fbcc83a-8afd-4328-aa82-4d842d242e30" name="Validadores" />
+        <layer Id="9d7578be-b6f7-417c-b57f-919c81fd3af4" name="Exceções" />
+        <layer Id="39424966-3a8d-4a38-b1ed-8b13840517e4" name="Segurança" />
+      </childLayers>
+    </layer>
+    <layer Id="125692d1-07bf-479a-9835-1ec6d5682a86" name="Infraestrutura de Dados">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="9defa7bc-1afb-4e24-9a3a-030d02a40d78" direction="Forward">
+          <layerMoniker Id="9420c28d-91d9-4098-94f8-b34dbd3b9bd4" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <childLayers>
+        <layer Id="0798a4b7-b3fd-40da-8175-6f7bdf101977" name="Repositórios">
+          <references>
+            <reference Id="ba084c5b-7da7-4940-a491-848da05dc010" name="Repository">
+              <ArtifactNode Label="Repository" Category="CodeSchema_ProjectItem" Id="(Assembly=../Fresenius.Exemplo.Infraestrutura.Persistencia/Repository/)">
+                <Category Ref="ProjectFolder" />
+              </ArtifactNode>
+              <ExpandedNode Id="(Assembly=Fresenius.Exemplo.Infraestrutura.Persistencia Namespace=Fresenius.Exemplo.Infraestrutura.Persistencia.Repository Type=AlunoRepository)" Label="AlunoRepository" Category="CodeSchema_Class">
+                <LinkCategory Ref="Represents" />
+              </ExpandedNode>
+              <ExpandedNode Id="(Assembly=Fresenius.Exemplo.Infraestrutura.Persistencia Namespace=Fresenius.Exemplo.Infraestrutura.Persistencia.Repository Type=EscolaRepository)" Label="EscolaRepository" Category="CodeSchema_Class">
+                <LinkCategory Ref="Represents" />
+              </ExpandedNode>
+            </reference>
+          </references>
+        </layer>
+        <layer Id="2fba0477-66f5-4510-af23-a2a1de7f620a" name="Agentes de Serviços">
+          <references>
+            <reference Id="bc2fdf00-58d2-4fa7-8959-ecf4278550e3" name="ServiceAgent">
+              <ArtifactNode Label="ServiceAgent" Category="CodeSchema_ProjectItem" Id="(Assembly=../Fresenius.Exemplo.Infraestrutura.Persistencia/ServiceAgent/)">
+                <Category Ref="ProjectFolder" />
+              </ArtifactNode>
+            </reference>
+          </references>
+        </layer>
+      </childLayers>
+    </layer>
+    <layer Id="887a3a62-53a9-460d-8b0e-92fd6d7bce1c" name="Aplicação">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="c9321bdf-1bb2-4bbf-b7ba-32c2d66bf982" direction="Forward">
+          <layerMoniker Id="9420c28d-91d9-4098-94f8-b34dbd3b9bd4" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="10d21b49-5d22-4a4e-9e34-e2f3ec622218" direction="Forward">
+          <layerMoniker Id="125692d1-07bf-479a-9835-1ec6d5682a86" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="0e5c6bf8-cccd-4889-9687-6bab87e93507" direction="Forward">
+          <layerMoniker Id="21bc77cd-43a6-4779-9b45-b18cffc72d09" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <childLayers>
+        <layer Id="52645a2f-7145-4fb8-b362-0a7be4e13f5d" name="Serviços de Aplicação" />
+        <layer Id="5aa0cdd6-3ca7-47c7-9bee-93db334d0b6c" name="Resources" />
+      </childLayers>
+      <references>
+        <reference Id="0d20a01c-99ae-47c2-be65-0e881fb35b78" name="Fresenius.Exemplo.Aplicacao">
+          <ArtifactNode Label="Fresenius.Exemplo.Aplicacao" Category="CodeSchema_Project" Id="(Assembly=../Fresenius.Exemplo.Aplicacao/Fresenius.Exemplo.Aplicacao.csproj)">
+            <Category Ref="CodeSchema_SourceFile" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=Fresenius.Exemplo.Aplicacao)" Label="Fresenius.Exemplo.Aplicacao.dll" Category="FileSystem.Category.FileOfType.dll">
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+    <layer Id="459ea0af-3563-4688-b57d-efcf001d81f2" name="Serviços Distribuidos">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="d17bfa7c-cb73-41f9-bb1f-f06f62abf368" direction="Forward">
+          <layerMoniker Id="887a3a62-53a9-460d-8b0e-92fd6d7bce1c" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="eec357e5-8fd3-4f2b-856e-f3c77316f3a6" direction="Forward">
+          <layerMoniker Id="9420c28d-91d9-4098-94f8-b34dbd3b9bd4" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="7218368e-a2ba-4115-a1d5-76f8d6ed156f" direction="Forward">
+          <layerMoniker Id="125692d1-07bf-479a-9835-1ec6d5682a86" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="cb609b8d-bfed-41e5-bf4e-f9d29f76e79a" direction="Forward">
+          <layerMoniker Id="21bc77cd-43a6-4779-9b45-b18cffc72d09" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <childLayers>
+        <layer Id="8e0668c9-759c-4bf7-8bb5-30dbd950c5ee" name="Requisições" />
+        <layer Id="e93482c5-a119-4d3a-98cf-2225ddc483a7" name="Respostas" />
+        <layer Id="0dca45a5-ce40-4a37-9fa7-b06327561384" name="Serviços" />
+        <layer Id="4ab2be0c-09b7-4120-b4ce-d8e877213a76" name="Mapeamento" />
+      </childLayers>
+    </layer>
+    <layer Id="9dad8a00-0749-414d-8985-4914171a6bb7" name="Apresentação">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="b3e75e79-53d5-4c31-956e-23dcaede8a8e" direction="Forward">
+          <layerMoniker Id="21bc77cd-43a6-4779-9b45-b18cffc72d09" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <childLayers>
+        <layer Id="56c88dae-c7c4-4bd8-b425-589bf3b6ceb5" name="Views">
+          <references>
+            <reference Id="b6fb5346-cd01-4c59-9380-939a0ef58d58" name="Fresenius.Exemplo.UI.Web">
+              <ArtifactNode Label="Fresenius.Exemplo.UI.Web" Category="CodeSchema_Project" Id="(Assembly=../Fresenius.Exemplo.UI.Web/Fresenius.Exemplo.UI.Web.csproj)">
+                <Category Ref="CodeSchema_SourceFile" />
+              </ArtifactNode>
+              <ExpandedNode Id="(Assembly=Fresenius.Exemplo.UI.Web)" Label="Fresenius.Exemplo.UI.Web.dll" Category="FileSystem.Category.FileOfType.dll">
+                <LinkCategory Ref="Produces" />
+                <LinkCategory Ref="Represents" />
+              </ExpandedNode>
+            </reference>
+          </references>
+        </layer>
+        <layer Id="50929035-8a90-41a2-8a26-0b2bef0272e9" name="Controllers">
+          <dependencyToLayers>
+            <dependencyFromLayerToLayer Id="ea779430-f6a0-431c-a93a-46626f7f3632" direction="Forward">
+              <layerMoniker Id="887a3a62-53a9-460d-8b0e-92fd6d7bce1c" />
+            </dependencyFromLayerToLayer>
+            <dependencyFromLayerToLayer Id="3377abde-2c92-47f3-a6c7-df58e60175a6" direction="Forward">
+              <layerMoniker Id="9420c28d-91d9-4098-94f8-b34dbd3b9bd4" />
+            </dependencyFromLayerToLayer>
+            <dependencyFromLayerToLayer Id="719eef9a-9e7c-478b-a19b-560c7b8562c3" direction="Forward">
+              <layerMoniker Id="125692d1-07bf-479a-9835-1ec6d5682a86" />
+            </dependencyFromLayerToLayer>
+          </dependencyToLayers>
+          <references>
+            <reference Id="d0fd6a0c-f6c3-4ab1-bdf1-71c7f8d5fb6e" name="Fresenius.Exemplo.UI.Web.Controllers">
+              <ArtifactNode Label="Fresenius.Exemplo.UI.Web.Controllers" Category="CodeSchema_Project" Id="(Assembly=../Fresenius.Exemplo.UI.Controllers/Fresenius.Exemplo.UI.Web.Controllers.csproj)">
+                <Category Ref="CodeSchema_SourceFile" />
+              </ArtifactNode>
+              <ExpandedNode Id="(Assembly=Fresenius.Exemplo.UI.Web.Controllers)" Label="Fresenius.Exemplo.UI.Web.Controllers.dll" Category="FileSystem.Category.FileOfType.dll">
+                <LinkCategory Ref="Produces" />
+                <LinkCategory Ref="Represents" />
+              </ExpandedNode>
+            </reference>
+          </references>
+        </layer>
+      </childLayers>
+    </layer>
+  </layers>
+</layerModel>

@@ -1,0 +1,11 @@
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio.BindContext\obj\Debug\Fresenius.Exemplo.Dominio.BindContext.csprojResolveAssemblyReference.cache
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio.BindContext\bin\Debug\Fresenius.Exemplo.Dominio.BindContext.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio.BindContext\bin\Debug\Fresenius.Exemplo.Dominio.BindContext.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio.BindContext\bin\Debug\Fresenius.Exemplo.Dominio.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio.BindContext\bin\Debug\Fresenius.Exemplo.Infraestrutura.Persistencia.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio.BindContext\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio.BindContext\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio.BindContext\bin\Debug\Fresenius.Exemplo.Dominio.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio.BindContext\bin\Debug\Fresenius.Exemplo.Infraestrutura.Persistencia.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio.BindContext\obj\Debug\Fresenius.Exemplo.Dominio.BindContext.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio.BindContext\obj\Debug\Fresenius.Exemplo.Dominio.BindContext.pdb

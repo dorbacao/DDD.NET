@@ -1,0 +1,6 @@
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Aplicacao\bin\Debug\Fresenius.Exemplo.Aplicacao.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Aplicacao\bin\Debug\Fresenius.Exemplo.Aplicacao.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Aplicacao\obj\Debug\Fresenius.Exemplo.Aplicacao.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Aplicacao\obj\Debug\Fresenius.Exemplo.Aplicacao.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Aplicacao\bin\Debug\Fresenius.Exemplo.UI.Web.Controllers.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Aplicacao\bin\Debug\Fresenius.Exemplo.UI.Web.Controllers.pdb

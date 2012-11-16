@@ -1,0 +1,4 @@
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.WebService\bin\Produção\Fresenius.Exemplo.WebService.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.WebService\bin\Produção\Fresenius.Exemplo.WebService.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.WebService\obj\Produção\Fresenius.Exemplo.WebService.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.WebService\obj\Produção\Fresenius.Exemplo.WebService.pdb

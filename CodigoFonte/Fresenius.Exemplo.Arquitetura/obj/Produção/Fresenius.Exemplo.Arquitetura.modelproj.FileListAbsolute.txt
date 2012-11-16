@@ -1,0 +1,7 @@
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Arquitetura\bin\Produção\Fresenius.Exemplo.Aplicacao.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Arquitetura\bin\Produção\Fresenius.Exemplo.UI.Web.Controllers.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Arquitetura\bin\Produção\Fresenius.Exemplo.UI.Web.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Arquitetura\bin\Produção\Fresenius.Exemplo.Aplicacao.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Arquitetura\bin\Produção\Fresenius.Exemplo.UI.Web.Controllers.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Arquitetura\bin\Produção\Fresenius.Exemplo.UI.Web.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Arquitetura\obj\Produção\Fresenius.Exemplo.Arquitetura.modelprojResolveAssemblyReference.cache

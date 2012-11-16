@@ -1,0 +1,7 @@
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio\bin\Produção\Fresenius.Exemplo.Dominio.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio\bin\Produção\Fresenius.Exemplo.Dominio.pdb
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio\bin\Produção\Microsoft.Practices.Unity.Configuration.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio\bin\Produção\Microsoft.Practices.Unity.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio\obj\Produção\Fresenius.Exemplo.Dominio.csprojResolveAssemblyReference.cache
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio\obj\Produção\Fresenius.Exemplo.Dominio.dll
+C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.Dominio\obj\Produção\Fresenius.Exemplo.Dominio.pdb

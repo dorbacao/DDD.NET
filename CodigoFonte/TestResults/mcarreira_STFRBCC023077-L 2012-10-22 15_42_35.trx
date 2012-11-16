@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7695c9f3-9fb9-457a-b85e-bc0a0d5fb09d" name="mcarreira@STFRBCC023077-L 2012-10-22 15:42:35" runUser="STEFANINI-DOM\mcarreira" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="b0c77259-cf6a-4e5d-ad63-efa7a1c5a27e">
+    <Deployment userDeploymentRoot="C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="mcarreira_STFRBCC023077-L 2012-10-22 15_42_35">
+      <DeploymentItem filename="C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Controllers\bin\Debug\Fresenius.Exemplo.UI.Web.Controllers.dll" />
+      <DeploymentItem filename="C:\Projetos\Stefanini\Projetos\Fresenius\Exemplo\Fresenius.Exemplo\Fresenius.Exemplo.UI.Web\bin\Fresenius.Exemplo.UI.Web.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-10-22T15:42:35.4830053-02:00" queuing="2012-10-22T15:42:38.5421802-02:00" start="2012-10-22T15:42:38.6761879-02:00" finish="2012-10-22T15:42:41.0173218-02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="About" storage="c:\projetos\stefanini\projetos\fresenius\exemplo\fresenius.exemplo\fresenius.exemplo.ui.web.tests\bin\debug\fresenius.exemplo.ui.web.tests.dll" id="c42c0fd7-1756-5b1f-ab70-50e048bee4b5">
+      <Execution id="00290a92-51d4-4609-9265-e08299c92c32" />
+      <TestMethod codeBase="C:/Projetos/Stefanini/Projetos/Fresenius/Exemplo/Fresenius.Exemplo/Fresenius.Exemplo.UI.Web.Tests/bin/Debug/Fresenius.Exemplo.UI.Web.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Fresenius.Exemplo.UI.Web.Tests.Controllers.HomeControllerTest, Fresenius.Exemplo.UI.Web.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="About" />
+    </UnitTest>
+    <UnitTest name="Index" storage="c:\projetos\stefanini\projetos\fresenius\exemplo\fresenius.exemplo\fresenius.exemplo.ui.web.tests\bin\debug\fresenius.exemplo.ui.web.tests.dll" id="fac94303-22db-1999-e509-1c773d291501">
+      <Execution id="836bd7fa-353e-4fe0-a269-96aa3284a358" />
+      <TestMethod codeBase="C:/Projetos/Stefanini/Projetos/Fresenius/Exemplo/Fresenius.Exemplo/Fresenius.Exemplo.UI.Web.Tests/bin/Debug/Fresenius.Exemplo.UI.Web.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Fresenius.Exemplo.UI.Web.Tests.Controllers.HomeControllerTest, Fresenius.Exemplo.UI.Web.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c42c0fd7-1756-5b1f-ab70-50e048bee4b5" executionId="00290a92-51d4-4609-9265-e08299c92c32" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fac94303-22db-1999-e509-1c773d291501" executionId="836bd7fa-353e-4fe0-a269-96aa3284a358" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="00290a92-51d4-4609-9265-e08299c92c32" testId="c42c0fd7-1756-5b1f-ab70-50e048bee4b5" testName="About" computerName="STFRBCC023077-L" duration="00:00:00.0458842" startTime="2012-10-22T15:42:38.8081955-02:00" endTime="2012-10-22T15:42:40.6833027-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="00290a92-51d4-4609-9265-e08299c92c32">
+    </UnitTestResult>
+    <UnitTestResult executionId="836bd7fa-353e-4fe0-a269-96aa3284a358" testId="fac94303-22db-1999-e509-1c773d291501" testName="Index" computerName="STFRBCC023077-L" duration="00:00:00.2398949" startTime="2012-10-22T15:42:40.6913032-02:00" endTime="2012-10-22T15:42:40.9373172-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="836bd7fa-353e-4fe0-a269-96aa3284a358">
+    </UnitTestResult>
+  </Results>
+</TestRun>
